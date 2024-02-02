@@ -5,6 +5,10 @@
 Optimiza la organización de tu espacio digital con esta herramienta. Crea carpetas categorizadas de manera inteligente, utilizando nombres que reflejen las extensiones de tus archivos.
 
 ## ¿Cómo funciona?
+
+
+<div align="center">
+
 ![image](https://github.com/nahataen/OrganizadorDeArchivos/assets/4331964/951102d0-4cfe-4274-9884-5e85c2888007)
 
 ![image](https://github.com/nahataen/OrganizadorDeArchivos/assets/4331964/e1b0320d-327f-405d-a8a5-3285c11ba97e)
@@ -14,7 +18,7 @@ Ejecutas el código
 
 ![image](https://github.com/nahataen/OrganizadorDeArchivos/assets/4331964/1cad5578-361c-4bc4-93c8-1f2ed076913d)
 
-
+</div>
 1. Descarga la aplicación.
 2. Ejecuta el programa.
 3. Observa cómo se generan automáticamente carpetas para cada tipo de archivo.
