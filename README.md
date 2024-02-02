@@ -6,16 +6,16 @@ Optimiza la organización de tu espacio digital con esta herramienta. Crea carpe
 
 ## ¿Cómo funciona?
 
-Archivos desordenados
+
 <div align="center">
 
 ![image](https://github.com/nahataen/OrganizadorDeArchivos/assets/4331964/951102d0-4cfe-4274-9884-5e85c2888007)
-Copias la ruta para luego ponerla en el código. 
+
 ![image](https://github.com/nahataen/OrganizadorDeArchivos/assets/4331964/e1b0320d-327f-405d-a8a5-3285c11ba97e)
 
-Ejecutas el código.
+
 ![image](https://github.com/nahataen/OrganizadorDeArchivos/assets/4331964/f1b230d9-fd3b-46fe-98f9-7175e42c89c3)
-Archivos ya ordenados.
+
 ![image](https://github.com/nahataen/OrganizadorDeArchivos/assets/4331964/1cad5578-361c-4bc4-93c8-1f2ed076913d)
 
 </div>
