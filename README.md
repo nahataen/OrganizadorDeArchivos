@@ -19,11 +19,6 @@ Ejecutas el código
 ![image](https://github.com/nahataen/OrganizadorDeArchivos/assets/4331964/1cad5578-361c-4bc4-93c8-1f2ed076913d)
 
 </div>
-1. Descarga la aplicación.
-2. Ejecuta el programa.
-3. Observa cómo se generan automáticamente carpetas para cada tipo de archivo.
-
-¡Sencillo, eficiente y elegante! Mantén tu sistema ordenado y encuentra tus archivos de manera rápida y fácil.
 
 ## Características
 
