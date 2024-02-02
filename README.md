@@ -8,7 +8,7 @@ Optimiza la organización de tu espacio digital con esta herramienta. Crea carpe
 
 
 <div align="center">
-Archivos desordenados.
+Archivos desordenados
 ![image](https://github.com/nahataen/OrganizadorDeArchivos/assets/4331964/951102d0-4cfe-4274-9884-5e85c2888007)
 Copias la ruta para luego ponerla en el código. 
 ![image](https://github.com/nahataen/OrganizadorDeArchivos/assets/4331964/e1b0320d-327f-405d-a8a5-3285c11ba97e)
